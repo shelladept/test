@@ -1,2 +1,11 @@
 Test program for learning how github works.
 Use it if you'd like, but I can't imagine why you would O_o
+
+But seriously folks:
+Ensure you have installed the G++ compiler then run 'make' from the target directory.
+#mkdir mySweetNewDir
+#cd mySweetNewDir
+#git clone git://github.com/shelladept/test.git
+#make
+
+fin!
